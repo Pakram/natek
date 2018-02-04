@@ -1,0 +1,2 @@
+Folder for docs
+They will be copy after compile
